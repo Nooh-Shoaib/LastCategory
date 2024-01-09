@@ -1,36 +1,36 @@
 {
-"data": [
-{
-"slug": "quality-assurance",
-"id": "quality-assurance",
-"tech": [
-{
-"techHeading": "Our QA Testing Services Approach",
-"techText": "We are a leading company that helps build an immersive digital experience. Tell us the name of the service and we are ready with it to solve your problems. From Android app testing services to website testing services, we offer all QA services to help you build credibility and gain more customers. We Conduct The Following Tests To Deliver Bug Free Products:",
-"testing": [
-{
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/icons8-check-64.png",
-"heading": "Quality Assurance",
-"text": "Quality Assurance consultation to analyze the current condition. Define the problems. Build the best strategy for your business with the best tools and framework."
-},
-{
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/icons8-check-64.png",
-"heading": "Infrastructure Testing",
-"text": "Infrastructure testing to test the software, hardware, and network. Monitor and identify all the possible risks. Avoid breaches and system disruptions. Help you build secure, reliable, and flexible infrastructure with advanced QA tools."
-},
-{
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/icons8-check-64.png",
-"heading": "Testing Services",
-"text": "Website testing services, IOS app testing services, and Android app testing services to deliver high quality, scalability, and impeccable UI performance over all devices and browsers."
-},
-{
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/icons8-check-64.png",
-"heading": "Specialized Testing",
-"text": "We conduct an in-depth test to resolve arising issues due to maturing of technologies. Test your whole digital ecosystem from UI design to cloud infrastructure and functionality of the final product."
-}
-]
-}
-]
-}
-]
+  "data": [
+    {
+      "slug": "quality-assurance",
+      "id": "quality-assurance",
+      "tech": [
+        {
+          "techHeading": "Our QA Testing Services Approach",
+          "techText": "We are a leading company that helps build an immersive digital experience. Tell us the name of the service and we are ready with it to solve your problems. From Android app testing services to website testing services, we offer all QA services to help you build credibility and gain more customers. We Conduct The Following Tests To Deliver Bug Free Products:",
+          "cards": [
+            {
+              "icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/icons8-check-64.png",
+              "heading": "Quality Assurance",
+              "text": "Quality Assurance consultation to analyze the current condition. Define the problems. Build the best strategy for your business with the best tools and framework."
+            },
+            {
+              "icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/icons8-check-64.png",
+              "heading": "Infrastructure Testing",
+              "text": "Infrastructure testing to test the software, hardware, and network. Monitor and identify all the possible risks. Avoid breaches and system disruptions. Help you build secure, reliable, and flexible infrastructure with advanced QA tools."
+            },
+            {
+              "icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/icons8-check-64.png",
+              "heading": "Testing Services",
+              "text": "Website testing services, IOS app testing services, and Android app testing services to deliver high quality, scalability, and impeccable UI performance over all devices and browsers."
+            },
+            {
+              "icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/icons8-check-64.png",
+              "heading": "Specialized Testing",
+              "text": "We conduct an in-depth test to resolve arising issues due to maturing of technologies. Test your whole digital ecosystem from UI design to cloud infrastructure and functionality of the final product."
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
